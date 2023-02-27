@@ -51,8 +51,8 @@ nav > a {
 
 h2 {
     background-color: #83e1ad;
-    
     color: rgb(1, 68, 1);
+    padding: 3px 10px;
 }
 
 main {
@@ -60,6 +60,7 @@ main {
     max-width: 1000px;
     text-align: justify;
     margin: 0px auto;
+    padding: 5px;
 }
 
 p {
