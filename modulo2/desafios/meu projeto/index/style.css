@@ -94,6 +94,17 @@ p {
     line-height: 30px;
 }
 
+ul > li {
+    list-style: \FE0F;
+}
+
 .foto {
     width: 100%;
+}
+
+footer {
+    text-align: center;
+    background-color: #1a5c37;
+    color: white;
+    margin-top: 30px;
 }
